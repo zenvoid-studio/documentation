@@ -1,5 +1,7 @@
 # Zenvoid Studio
 
+![](images/zenvoid-studio.png)
+
 Una iniciativa para desarrollo de videojuegos y aplicaciones de ocio interactivo, aprendizaje colectivo e investigación. El grupo se reúne en Madrid (España). Las reuniones presenciales son el medio principal de colaboración del grupo, pero también está abierto a la participación de personas interesadas de todo el mundo.
 
 ---
